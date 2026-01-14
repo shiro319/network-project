@@ -1,4 +1,3 @@
- index.html
 <!DOCTYPE html>
 <html lang="ar">
 <head>
@@ -89,7 +88,7 @@
         <section id="how-data">
             <h2>كيفية انتقال البيانات في 4G</h2>
             <p>عند إرسال رسالة أو اتصال هاتفي، تنتقل البيانات من هاتفك إلى البرج القريب، ثم إلى شبكة المزود، ومن ثم إلى الهاتف الآخر. هذا الانتقال يتم بسرعة عالية عبر تكنولوجيا LTE.</p>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Mobile_network_4G.png" alt="شبكة الجيل الرابع" />
+            <img src=" Screenshot_٢٠٢٥-١٢-٠٣-١٨-٣٩-٣٦-٥٠٠_com.miui.mediaviewer.jpg" alt="شبكة الجيل الرابع" />
         </section>
     </main>
     <footer>
